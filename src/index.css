@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "IRANSans";
+  src: url(../src/assets/fonts/IRANSansXFaNum-Regular.ttf);
+}
+
+body  {
+  direction: rtl;
+  text-align: right;
+  font-family: IRANSans;
+  font-size: 14px;
+}
