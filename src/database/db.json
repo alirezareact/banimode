@@ -1,0 +1,108 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "پلیور زنانه جوتی جینز JootiJeans کد 43791001",
+      "brand": "JootiJeans",
+      "cat": "پلیور زنانه",
+      "Price": 1799000,
+      "percent":70,
+      "img": "img/amazing/img1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "کاپشن مردانه جوتی جینز JootiJeans کد 43522100",
+      "brand": "JootiJeans",
+      "cat": "کاپشن مردانه",
+      "Price": 5999000,
+      "percent":50,
+      "img": "img/amazing/img2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "شال پسرانه جوتی جینز JootiJeans کد 33908103",
+      "brand": "JootiJeans",
+      "cat": "شال گردنه پسرانه",
+      "Price": 899000,
+      "percent":40,
+      "img": "img/amazing/img3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "پلیور مردانه جوتی جینز JootiJeans کد 34591001",
+      "brand": "JootiJeans",
+      "cat": "پلیور مردانه",
+      "Price": 1999000,
+      "percent":40,
+      "img": "img/amazing/img4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "دورس مردانه جوتی جینز JootiJeans کد 43571332",
+      "brand": "JootiJeans",
+      "cat": "سویشرت مردانه",
+      "Price": 1999000,
+      "percent":60,
+      "img": "img/amazing/img5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "کاپشن زنانه جوتی جینز JootiJeans کد 43722600",
+      "brand": "JootiJeans",
+      "cat": "کاپشن زنانه",
+      "Price": 5999000,
+      "percent":30,
+      "img": "img/amazing/img6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "شلوار جین مردانه جین وست Jeanswest کد 14181517",
+      "brand": "Jeanswest",
+      "cat": "شلوار جین مردانه",
+      "Price": 3499000,
+      "percent":40,
+      "img": "img/amazing/img7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "شورت دخترانه جین وست Jeanswest کد 42D98090",
+      "brand": "Jeanswest",
+      "cat": "لباس زیر دخترانه",
+      "Price": 599000,
+      "percent":60,
+      "img": "img/amazing/img8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "پلیور زنانه جوتی جینز JootiJeans کد 34791002",
+      "brand": "JootiJeans",
+      "cat": "پلیور زنانه",
+      "Price": 1799000,
+      "percent":30,
+      "img": "img/amazing/img9.jpg"
+    },
+    {
+      "id": 10,
+      "title": "شلوار مردانه جین وست Jeanswest کد 23151501",
+      "brand": "Jeanswest",
+      "cat": "شلوار کتان مردانه",
+      "Price": 2999000,
+      "percent":50,
+      "img": "img/amazing/img10.jpg"
+    }
+  ],
+  "discount": [
+    {
+      "code": "test20",
+      "discount": 20
+    },
+    {
+      "code": "test30",
+      "discount": 30
+    },
+    {
+      "code": "test50",
+      "discount": 50
+    }
+  ]
+}
